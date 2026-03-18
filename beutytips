@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Beauty Tips by Chirag</title>
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      background: #fff0f5;
+      text-align: center;
+    }
+
+    header {
+      background: #ff69b4;
+      color: white;
+      padding: 20px;
+      font-size: 24px;
+    }
+
+    .container {
+      padding: 20px;
+    }
+
+    .card {
+      background: white;
+      margin: 15px;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px gray;
+    }
+
+    button {
+      padding: 10px 20px;
+      background: #ff69b4;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    footer {
+      background: #333;
+      color: white;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  💄 Beauty Tips Website 💄
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>✨ Glowing Skin Tip</h2>
+    <p>Roz subah garam paani + nimbu peeyo. Skin naturally glow karegi.</p>
+  </div>
+
+  <div class="card">
+    <h2>🌿 Hair Care Tip</h2>
+    <p>Hafte me 2 baar coconut oil se massage karo. Baal strong honge.</p>
+  </div>
+
+  <div class="card">
+    <h2>🧴 Face Care</h2>
+    <p>Raat ko sone se pehle face wash zaroor karo. Pimples kam honge.</p>
+  </div>
+
+  <div class="card">
+    <h2>🍎 Healthy Diet</h2>
+    <p>Fruits aur pani zyada lo. Skin aur hair dono healthy rahenge.</p>
+  </div>
+
+  <button onclick="alert('Stay Beautiful 😍')">Click for Magic ✨</button>
+
+</div>
+
+<footer>
+  Made by Chirag 🚀
+</footer>
+
+</body>
+</html>
